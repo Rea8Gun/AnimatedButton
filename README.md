@@ -1,3 +1,3 @@
 # AnimatedButton
-Animated Button HTML and CSS only.
+Animated Button using HTML and CSS only.
 
